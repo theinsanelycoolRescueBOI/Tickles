@@ -1,0 +1,12 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2019-12-16 19:13 CET
+Nmap scan report for lan.home (192.168.1.1)
+Host is up (0.011s latency).
+Nmap scan report for chris-lenovo-ideapad-320-17ast.home (192.168.1.17)
+Host is up (0.00058s latency).
+Nmap scan report for nas.home (192.168.1.25)
+Host is up (0.010s latency).
+Nmap scan report for desktop-4k0brv8.home (192.168.1.33)
+Host is up (0.027s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 2.36 seconds
+
+F8-32-E4-86-C3-0B
